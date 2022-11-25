@@ -3,12 +3,12 @@
 ##Installation
 
 
-##Usage
+## Usage
 
 
-##Credits
+## Credits
 
 
-##license
+## License
 
 Licensed under the MIT license.
