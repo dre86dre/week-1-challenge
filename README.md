@@ -1,1 +1,14 @@
-# week-1-challenge
+# Week 1 Challenge
+
+##Installation
+
+
+##Usage
+
+
+##Credits
+
+
+##license
+
+Licensed under the MIT license.
